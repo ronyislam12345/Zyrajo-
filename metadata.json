@@ -1,0 +1,8 @@
+{
+  "name": "Lumina Fashion - AI Powered E-Commerce",
+  "description": "A cutting-edge fashion platform featuring AI-powered styling, virtual try-ons, and immersive customization using Gemini API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
